@@ -2,7 +2,7 @@
 
 針對 FIMI（生活主題）貼文進行中文 NLP 分析，透過關鍵字萃取、語意嵌入、聚類與相似度矩陣，識別重複性敘事主題。
 
-![image](https://github.com/xuanxxx2002/fimi-narrative-analyzer/blob/main/keyword_analysis.png)
+![image]([https://github.com/xuanxxx2002/fimi-narrative-analyzer/blob/main/keyword_analysis.png](https://github.com/xuanxxx2002/fimi-narrative-analyzer/blob/main/keyword_analysis.png))
 
 ## 分析流程
 
